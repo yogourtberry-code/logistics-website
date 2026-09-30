@@ -1,0 +1,8 @@
+/*
+ * plus (feather-icons/plus@0.0.29)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "https://framerusercontent.com/modules/PhTGpTknffo1hutN5AS4/op9ADx28xnTYDkpdfizU/plus.js"
+export { default } from "https://framerusercontent.com/modules/PhTGpTknffo1hutN5AS4/op9ADx28xnTYDkpdfizU/plus.js"
